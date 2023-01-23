@@ -36,6 +36,13 @@ button {
 
   border-radius: 8px;
   border: 1px solid #8B5CF6;
+
+  cursor: pointer;
+}
+
+button:hover {
+  transition: 400ms;
+  background: #8B5CF6;
 }
 
 #habits {
