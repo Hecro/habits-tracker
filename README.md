@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido utilizando:
 
 O Habits é um app para você mapear e organizar seus hábitos, te ajudando a se organizar melhor.
 
+- [Você pode acessar o projeto clicando aqui](https://hecro.github.io/habits-tracker/) ou clicando no link no topo desse mesmo repositório.
+
 
 
 ## 🔖 Layout
